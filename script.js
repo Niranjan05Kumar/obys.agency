@@ -183,4 +183,4 @@ function sheryAnimation(){
         gooey:true, 
     })
 }
-sheryAnimation();
+// sheryAnimation();
